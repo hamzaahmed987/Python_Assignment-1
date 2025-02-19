@@ -51,7 +51,7 @@ st.markdown("""
         }
         .stFileUploader {
             text-align: center;
-            border: 2px dashed #FF6F61;
+            # border: 2px dashed #FF6F61;
             padding: 20px;
             border-radius: 10px;
         }
